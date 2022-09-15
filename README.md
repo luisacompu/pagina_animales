@@ -1,2 +1,2 @@
 # pagina_animales
-Página creado con información sobre los animales
+Página creada con información sobre los animales
